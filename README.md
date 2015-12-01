@@ -92,6 +92,6 @@ Hi! Welcome to my very repetitive program
  => 10 
 ```
 
-Regardless of whether we understand how the code above works, we can see the advantages it has over our first implementation. First, we are able to achieve the same result as our first implementation with far few lines of code. Secondly, it eliminates the room for error that manually typing out `puts "Hi! Welcome to my very repetitive program"` allows. 
+Regardless of whether we understand how the code above works, we can see the advantages it has over our first implementation. First, we are able to achieve the same result as our first implementation with far fewer lines of code. Secondly, it eliminates the room for error that manually typing out `puts "Hi! Welcome to my very repetitive program"` allows. 
 
 Lastly, it clearly conveys to the reader exactly what it will accomplish. It reads like this "ten times do `puts` out this phrase to the terminal". This is abstract, rather than the explicit typing of ten lines of identical code, which is literal. And this is eloquent, because it speaks for itself. 
