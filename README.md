@@ -36,7 +36,7 @@ Now we have a method name that expresses the job or responsibility of the code i
 
 Repetition and abstraction in programming go hand-in-hand. It's hard to imagine a program that must carry out a certain responsibilty or do a certain job *only once*.
 
-You might be writing code for a game that must ask the user for input again and again, until they either win or loose. You might need to send a user of a web application updates about their account repeatedly. You might need to do something as simple as `puts` out some text to the terminal a specified number of times. 
+You might be writing code for a game that must ask the user for input again and again, until they either win or lose. You might need to send a user of a web application updates about their account repeatedly. You might need to do something as simple as `puts` out some text to the terminal a specified number of times. 
 
 All of these scenarios, and many more, can be accomplished with a programming construct called **looping**. 
 
