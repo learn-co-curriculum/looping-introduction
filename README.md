@@ -68,7 +68,7 @@ Code like the snippet above is hard to maintain, but, above all, it is not eloqu
 
 **Loops**, however, allow us to tell our program to do the same thing over and over with just a few simple, clear, and easy to understand lines. 
 
-There are a number of different looping constructs available to us. In other words, there are a few different types of looping methods and implementation that we will learn. The basic principle, though, is that looping allows to to **abstract** away the actual mechanics of enacting the same, or similar, lines of code a certain number of times. Instead of explicitly telling our program to `puts` out a phrase ten times, we can use a loop like this one:
+There are a number of different looping constructs available to us. In other words, there are a few different types of looping methods and implementation that we will learn. The basic principle, though, is that looping allows us to **abstract** away the actual mechanics of enacting the same, or similar, lines of code a certain number of times. Instead of explicitly telling our program to `puts` out a phrase ten times, we can use a loop like this one:
 
 ```ruby
 10.times do 
@@ -95,5 +95,3 @@ Hi! Welcome to my very repetitive program
 Regardless of whether we understand how the code above works, we can see the advantages it has over our first implementation. First, we are able to achieve the same result as our first implementation with far fewer lines of code. Secondly, it eliminates the room for error that manually typing out `puts "Hi! Welcome to my very repetitive program"` allows. 
 
 Lastly, it clearly conveys to the reader exactly what it will accomplish. It reads like this "ten times do `puts` out this phrase to the terminal". This is abstract, rather than the explicit typing of ten lines of identical code, which is literal. And this is eloquent, because it speaks for itself. 
-
-<a href='https://learn.co/lessons/looping-introduction' data-visibility='hidden'>View this lesson on Learn.co</a>
