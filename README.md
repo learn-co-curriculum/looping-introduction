@@ -32,7 +32,7 @@ def greet_user(name)
 end
 ```
 
-Now we have a method name that expresses the job or responsibility of the code it contains *and* we have a way to re-use the same bit of code again and again, throughout or program, simply by calling the method. 
+Now we have a method name that expresses the job or responsibility of the code it contains *and* we have a way to re-use the same bit of code again and again, throughout our program, simply by calling the method. 
 
 Repetition and abstraction in programming go hand-in-hand. It's hard to imagine a program that must carry out a certain responsibilty or do a certain job *only once*.
 
