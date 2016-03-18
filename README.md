@@ -76,7 +76,7 @@ There are a number of different looping constructs available to us. In other wor
 end
 ```
 
-Copy and paste the above code snippet into your terminal and hit `enter`. You should see:
+Copy and paste the above code snippet into IRB in your terminal and hit `enter`. You should see:
 
 ```bash
 Hi! Welcome to my very repetitive program
@@ -97,3 +97,5 @@ Regardless of whether we understand how the code above works, we can see the adv
 Lastly, it clearly conveys to the reader exactly what it will accomplish. It reads like this "ten times do `puts` out this phrase to the terminal". This is abstract, rather than the explicit typing of ten lines of identical code, which is literal. And this is eloquent, because it speaks for itself. 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/looping-introduction' title='Introduction to Looping'>Introduction to Looping</a> on Learn.co and start learning to code for free.</p>
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/looping-introduction'>Intro to Loops</a> on Learn.co and start learning to code for free.</p>
