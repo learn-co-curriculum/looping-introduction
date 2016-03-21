@@ -76,7 +76,7 @@ There are a number of different looping constructs available to us. In other wor
 end
 ```
 
-Copy and paste the above code snippet into your terminal and hit `enter`. You should see:
+Copy and paste the above code snippet into IRB in your terminal and hit `enter`. You should see:
 
 ```bash
 Hi! Welcome to my very repetitive program
