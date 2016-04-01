@@ -22,7 +22,7 @@ puts "Hello, someone else."
 
 Not only do we have to repeat the same line of code again and again, changing one consistent thing about it each time, but the use of the line of code above isn't descriptive of the job we are trying to accomplish. 
 
-This line of code has a responsibility, it's responsibility is to greet the user. But in order to understand that, you have to read the text that we are `puts`-ing out and really think about it. 
+This line of code has a responsibility, its responsibility is to greet the user. But in order to understand that, you have to read the text that we are `puts`-ing out and really think about it. 
 
 We can make this code eloquent, i.e. expressive of the job it is trying to accomplish, and re-usable and flexible by wrapping it in a method that takes an argument:
 
